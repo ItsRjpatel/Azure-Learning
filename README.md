@@ -1,7 +1,7 @@
 # 🚀 Rajeev Kumar | Azure Administrator Journey
 
-Welcome to my **Azure & DevOps Learning Repository**!  
-This repo documents my certifications, projects, and career roadmap as I grow from **Azure Administrator → Solutions Architect → DevOps Engineer**.
+Welcome to my **Azure & DevOps Learning Portfolio**!  
+This profile documents my certifications, projects, and roadmap as I grow from **Azure Administrator → Solutions Architect → DevOps Engineer**.
 
 ---
 
@@ -15,12 +15,45 @@ This repo documents my certifications, projects, and career roadmap as I grow fr
 ---
 
 ## 📜 Certifications
-- ✅ Microsoft Certified: Azure Fundamentals (**AZ-900**)  
-- 🔄 Preparing: Azure Administrator (**AZ-104**)  
+![Certification](https://img.shields.io/badge/Certification-AZ--900%20(Fundamentals)-brightgreen?logo=microsoft)
+![Status](https://img.shields.io/badge/Next%20Target-AZ--104%20Administrator-orange?logo=azure-devops)
+
+- ✅ Microsoft Certified: **Azure Fundamentals (AZ-900)**  
+- 🔄 Preparing: **Azure Administrator (AZ-104)**  
 - 🎯 Next Goals:  
   - Azure Solutions Architect (**AZ-305**)  
   - Azure DevOps Engineer (**AZ-400**)  
   - Kubernetes (CKA)  
+
+---
+
+## 📊 Microsoft Learn Progress
+📌 [**My Microsoft Learn Profile**](https://learn.microsoft.com/en-us/users/rajeevkumar-2204/)  
+
+![Microsoft Learn Points](https://img.shields.io/badge/Learn%20Points-3000%2B-blue?logo=microsoft)
+
+### Recent Modules Completed
+- 🔹 Introduction to Azure governance and compliance  
+- 🔹 Secure Azure resources with RBAC  
+- 🔹 Configure conditional access policies  
+- 🔹 Plan and implement Azure storage accounts  
+- 🔹 Configure Azure VNets & subnets  
+- 🔹 Monitor resources with Azure Monitor & Log Analytics  
+
+---
+
+## ⚡ Tech Skills & Tools
+
+![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoft-azure&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?logo=azure-devops&logoColor=white)
+![Networking](https://img.shields.io/badge/Networking-00599C?logo=cisco&logoColor=white)
+![Storage](https://img.shields.io/badge/Storage-CC2927?logo=microsoft&logoColor=white)
+![Compute](https://img.shields.io/badge/Compute-2E8B57?logo=linux&logoColor=white)
+![Security](https://img.shields.io/badge/Security-FF5733?logo=datadog&logoColor=white)
+![Monitoring](https://img.shields.io/badge/Monitoring-000000?logo=prometheus&logoColor=white)
+![DevOps](https://img.shields.io/badge/DevOps-2496ED?logo=docker&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 
 ---
 
@@ -29,6 +62,8 @@ This repo documents my certifications, projects, and career roadmap as I grow fr
 - Created VNets, Subnets & NSGs  
 - Configured Azure RBAC and IAM  
 - Working on Azure Storage, Backup & Monitoring  
+
+*(Full labs documented in my [Azure-Learning Repository](https://github.com/yourusername/Azure-Learning))*
 
 ---
 
@@ -75,4 +110,4 @@ B.Tech – BITS Pilani (Ongoing, 4th Semester)
 
 ---
 
-⭐ **Follow my repo to track my cloud journey and projects!**  
+⭐ **Follow my journey to track my cloud & DevOps growth!**
